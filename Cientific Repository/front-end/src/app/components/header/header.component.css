@@ -1,0 +1,24 @@
+.navbar{
+    background-color: rgba(241,241,225,255);
+}
+.container-fluid{
+    border-bottom: 2px solid;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#logo-text{
+    font-size: 26px;
+}
+#nav a:hover {
+    border-bottom: 2px solid black;
+  }
+#nav{
+    font-size: 18px;
+    padding-right: 50px; 
+}
+img{
+    width: 110px;
+    height: 110px;
+}
